@@ -1,4 +1,1 @@
-# kursovoy
-# kursovoy
-# kursovoy
-# kursovoy
+# Встраиваемые системы
